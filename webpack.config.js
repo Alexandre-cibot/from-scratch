@@ -16,6 +16,7 @@ module.exports = (env, argv) => {
     devServer: {
       contentBase: './dist',
       port: '3333',
+      open: true,
       compress: false
     },
     module: {
