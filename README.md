@@ -1,5 +1,5 @@
 # From Scratch
-### Because doing it manualy is good to understand.
+### Because doing it manualy is good to deeply understand.
 
 - [x] Implement Webpack
 - [x] Implement Webpack-dev-server
