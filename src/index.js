@@ -1,17 +1,17 @@
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+import React, { Component } from 'react'
+import ReactDOM from 'react-dom'
 // Components
-import Header from './components/Header.js';
+import Header from './components/Header.js'
 
 class App extends Component {
-  render() {
-    return (
-      <Header title="Titre du Header" subtitle="Subtitle du header"/>
-    )
-  }
+	render() {
+		return (
+			<Header title="Titre du Header" subtitle="Subtitle du header"/>
+		)
+	}
 }
 
 ReactDOM.render(
-  <App />,
-  document.querySelector('#root')
+	<App />,
+	document.querySelector('#root')
 )
