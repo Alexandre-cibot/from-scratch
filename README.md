@@ -8,5 +8,5 @@
 - [x] Implement Babel requirements.
 - [x] Implement Jest requirements.
 - [x] Implement local Eslint
-- [ ] Implement pre-commit hook (eslink checks)
+- [x] Implement pre-commit hook (eslink checks)
 - [ ] Implement React tests with Jest.
