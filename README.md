@@ -7,5 +7,5 @@
 - [x] Implement React requirements.
 - [x] Implement Babel requirements.
 - [x] Implement Jest requirements.
-- [ ] Implement local Eslint
+- [x] Implement local Eslint
 - [ ] Implement React tests with Jest.
