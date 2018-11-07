@@ -14,12 +14,12 @@ class Header extends Component {
 	}
 	changeArr() {
 		// Only to see if babbel will convert it to .concat function.clear
-		const newArr = [1,2,3]
-		this.setState({arr: [...newArr]})
+		const newArr = [ 1,2,3 ]
+		this.setState({ arr: [ ...newArr ] })
 	}
 	render() {
 		return (
-			<header onClick={this.changeArr} style={{border: '1px solid black'}}>
+			<header onClick={this.changeArr} style={{ border: '1px solid black' }}>
 				<h1>{this.props.title}</h1>
 				<p>{this.props.subtitle}</p>
 				<ul>

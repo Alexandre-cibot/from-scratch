@@ -25,6 +25,8 @@ module.exports = {
     },
     "rules": {
         "no-console": 0,
+        "object-curly-spacing": ["error", "always"],
+        "array-bracket-spacing": ["error", "always"],
         "indent": [
             "error",
             "tab"
