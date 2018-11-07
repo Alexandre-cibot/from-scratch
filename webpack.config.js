@@ -1,6 +1,6 @@
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
-module.exports = (env, argv) => {
+module.exports = (env, argv) => {
 	return {
 		entry: './src/index.js',
 		output: {
